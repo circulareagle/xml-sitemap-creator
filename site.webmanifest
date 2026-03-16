@@ -1,6 +1,6 @@
 {
-  "name": "XML Sitemap",
-  "short_name": "XML",
+  "name": "XML Sitemap Generator",
+  "short_name": "Sitemap Generator",
   "icons": [
     {
       "src": "/assets/images/icon-192.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#FFFFFF",
-  "background_color": "#ffffff",
+  "theme_color": "#00020D",
+  "background_color": "#00020D",
   "display": "standalone"
 }
